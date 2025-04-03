@@ -88,10 +88,9 @@ export const BLOG_POSTS: BlogPost[] = [
     uid: 'blog-2',
   },
   {
-    title: 'What I learned from building five AI-powered apps in a year',
-    description:
-      'A look back at my first year truly developing applications',
-    link: '/blog/what-i-learned-from-building-five-ai-powered-apps-in-a-year',
+    title: 'What I learned from my first startup',
+    description: 'A look back at my first year truly developing applications',
+    link: '/blog/what-i-learned-from-my-first-startup',
     uid: 'blog-3',
   },
 ]
